@@ -13,7 +13,7 @@ body {
 }
 
 #logo-img {
-  background: url('../images/restaurant-logo_large.png') no-repeat;
+  background: url('https://github.com/Abror777/mod5_solution/blob/master/images/restaurant-logo_large.png?raw=true') no-repeat;
   width: 150px;
   height: 150px;
   margin: 10px 15px 10px 0;
