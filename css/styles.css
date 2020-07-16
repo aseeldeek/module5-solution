@@ -261,7 +261,7 @@ h3.menu-item-title {
 @media (min-width: 768px) and (max-width: 991px) {
   /* Home Page */
   .container .jumbotron {
-    background: url('https://github.com/Abror777/mod5_solution/blob/master/images/restaurant-logo_medium.png?raw=true') no-repeat;
+    background: url('https://github.com/Abror777/mod5_solution/blob/master/images/jumbotron_768.jpg?raw=true') no-repeat;
     height: 432px;
   }
   /* End Home Page */
